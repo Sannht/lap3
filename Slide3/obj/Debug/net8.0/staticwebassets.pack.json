@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HK_SPRING_2024\\Block 2\\C# 4\\Bài Học\\Buổi 2\\lap3\\Slide3\\Slide3\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\HK_SPRING_2024\\Block 2\\C# 4\\Bài Học\\Buổi 2\\lap3\\Slide3\\Slide3\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Slide3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Slide3.props",
+      "PackagePath": "build\\Slide3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Slide3.props",
+      "PackagePath": "buildMultiTargeting\\Slide3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Slide3.props",
+      "PackagePath": "buildTransitive\\Slide3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
